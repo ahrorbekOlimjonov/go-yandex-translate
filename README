@@ -1,0 +1,15 @@
+# Go Yandex Cloud Translate
+
+A Go client library for the Yandex Cloud Translate and SpeechKit (Text-to-Speech) APIs.
+
+## Features
+
+- Translate single or multiple texts
+- Detect language
+- List supported languages
+- Synthesize speech (Text-to-Speech)
+
+## Installation
+
+```sh
+go get -u github.com/ahrorbekOlimjonov/go-yandex-translate
